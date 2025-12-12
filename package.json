@@ -1,0 +1,20 @@
+{
+  "name": "vibe-coding-training",
+  "version": "1.0.0",
+  "description": "Complete Vibe Coding Training - GitHub Copilot, LLM Fundamentals, MCP & API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "start": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "vibe-coding",
+    "github-copilot",
+    "llm",
+    "mcp",
+    "api",
+    "training"
+  ],
+  "author": "Vibe Coding",
+  "license": "MIT"
+}
